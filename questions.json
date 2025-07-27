@@ -1,0 +1,103 @@
+[
+    {
+    "question":"What is the capital of Canada?" ,
+    "options":{
+    "A": "Toronto",
+    "B": "Ottawa",
+    "C": "Vancouver", 
+    "D": "Montreal"},
+    "answer" : "B"
+    },
+ 
+{
+    "question":"Which gas do plants absorb during photosynthesis?" ,
+    "options":{
+        "A":"Oxygen",
+        "B":"Carbon Monoxide",
+        "C":"Carbon Dioxide",
+        "D":"Nitrogen"
+    },
+    "answer" : "C"
+},
+
+{
+    "question":"WWhat is 15 % of 200?" ,
+    "options":{
+        "A":"25",
+        "B":"30",
+        "C":"35",
+        "D":"40"
+    },"answer" : "B"
+},
+{
+        "question": "Which planet has the most moons?",
+        "options": {
+            "A": "Earth",
+            "B": "Jupiter",
+            "C": "Saturn",
+            "D": "Mars"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": {
+            "A": "Central Performance Unit",
+            "B": "Core Processing Unit",
+            "C": "Central Processing Unit",
+            "D": "Computer Program Unit"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which number comes next in the pattern: 2, 4, 8, 16, ?",
+        "options": {
+            "A": "24",
+            "B": "30",
+            "C": "34",
+            "D": "32"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": {
+            "A": "Picasso",
+            "B": "Van Gogh",
+            "C": "Michelangelo",
+            "D": "Leonardo da Vinci"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which programming language is known for its snake logo?",
+        "options": {
+            "A": "Ruby",
+            "B": "Python",
+            "C": "Java",
+            "D": "Go"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": {
+            "A": "Asia",
+            "B": "Europe",
+            "C": "Africa",
+            "D": "South America"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "options": {
+            "A": "90°C",
+            "B": "95°C",
+            "C": "100°C",
+            "D": "110°C"
+        },
+        "answer": "C"
+    }
+]
+
