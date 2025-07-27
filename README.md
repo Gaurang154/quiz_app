@@ -12,8 +12,8 @@ A terminal-based Python quiz application that lets users test their knowledge th
 - Timer to measure total time taken by each user  
 - Option to save user’s name, score, and time  
 - Leaderboard stored locally in JSON and sorted by score  
-- Visual feedback using ✅ for correct and ❌ for incorrect answers  
-- Game ends instantly upon a wrong answer  
+- Visual feedback using ✅ for correct 
+- Game tell correct answer when incorrect option is choiosen 
 - Case-insensitive input handling (A/B/C/D or a/b/c/d)  
 - Clean, formatted terminal output for better UX  
 - Basic input validation to prevent crashes from invalid input  
